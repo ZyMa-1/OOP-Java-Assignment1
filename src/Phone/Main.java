@@ -1,6 +1,6 @@
 package Phone;
 
-public class MainPhone {
+public class Main {
     public static void main(String[] args) {
         // Creating Phones
         Phone phone1 = new Phone("123-4567", "nokia", 69.96);

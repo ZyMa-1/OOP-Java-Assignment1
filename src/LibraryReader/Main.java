@@ -2,7 +2,7 @@ package LibraryReader;
 
 import java.time.LocalDate;
 
-public class LibraryReaderMain {
+public class Main {
     public static void main(String[] args) {
         LibraryReader reader = new LibraryReader("John Doe", "12345", "Computer Science", "555-1234", LocalDate.of(2004, 5, 1));
 

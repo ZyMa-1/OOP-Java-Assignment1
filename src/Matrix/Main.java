@@ -1,6 +1,6 @@
 package Matrix;
 
-public class MatrixMain {
+public class Main {
     public static void main(String[] args) {
         // Creating data for matrices
         double[][] data1 = new double[][]{

@@ -1,6 +1,6 @@
 package Person;
 
-public class MainPerson {
+public class Main {
     public static void main(String[] args) {
         // Creating Persons
         Person person1 = new Person("Mikhail", 19);
